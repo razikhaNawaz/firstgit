@@ -38,6 +38,6 @@ var header=document.getElementById('main-header');
     var AddItems=document.getElementsByClassName('title');
     AddItems[0].style.fontWeight='bold';
     AddItems[0].style.color='green';
-console.log('i love git');
+console.log('i love git')
     </script>*/
 </body>
